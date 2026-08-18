@@ -1,7 +1,7 @@
 # File_Dump
 <div align="center">
 
-<!-- Animated Banner / Header -->
+<!-- Dynamic Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=FILE%20DUMPING%20TOOL&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 # 🚀 AUTO FILE DUMPING TOOL
@@ -23,18 +23,28 @@ Whether you are managing data files or working with automated Termux scripts, th
 
 ---
 
-## 🔥 Features
+## 🔥 Key Features
 
-- ⚡ **Super Fast Execution:** Optimized Python script for high-speed file dumping.
-- 📱 **Termux Optimized:** Fully compatible with Android Termux (no root required).
-- 🆓 **100% Free & Open Source:** Free to use, modify, and distribute.
-- 🛠️ **Simple Command Line:** Easy-to-remember commands for quick setup.
+- ⚡ **Super Fast Execution:** Highly optimized Python script for rapid data dumping.
+- 📱 **Termux Optimized:** Fully compatible with Android Termux (No Root Required).
+- 🆓 **100% Free & Open Source:** Free to use, modify, and share.
+- 🛠️ **Simple Command Line Interface:** Clean and easy-to-use commands.
+
+---
+
+## 🖼️ Tool Preview & Screenshot
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kgf-cyber-123/File_Dump/main/Screenshot_2026_0818_013023.jpg" alt="Tool Screenshot" width="85%" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);"/>
+
+</div>
 
 ---
 
 ## 🛠️ Installation & Setup
 
-Run the following commands in your **Termux** or **Linux Terminal**:
+Run the following commands step-by-step in your **Termux** or **Linux Terminal**:
 
 ```bash
 git clone https://github.com/kgf-cyber-123/File_Dump.git
